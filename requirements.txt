@@ -1,3 +1,4 @@
+wheel
 jupyterlab
 kaggle
 numpy
@@ -5,4 +6,4 @@ matplotlib
 pandas
 scikit-learn
 scipy
-tensorflow
+tensorflow<2.11
