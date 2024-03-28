@@ -6,4 +6,5 @@ matplotlib
 pandas
 scikit-learn
 scipy
-tensorflow<2.11
+tensorflow
+seaborn

@@ -18,7 +18,7 @@ def plot_feature_vs_target(
     plt: plt,
     X: pd.DataFrame,
     y: pd.Series,
-    color_feature: pd.DataFrame | str = "blue",
+    color_feature: pd.DataFrame | pd.Series | str = "blue",
     cmap: mcolors.Colormap | str = "viridis",
     title: str = "Feature vs SalePrice",
     alpha: float = 0.5,
