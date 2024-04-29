@@ -1,0 +1,1 @@
+docker run -ti --rm -p 8888:8888 -v .:/tf/notebooks --runtime=nvidia tfnb
